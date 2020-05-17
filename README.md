@@ -1,2 +1,2 @@
-# tigo-data-analytics-python
-Curso de python
+# Tigo: Data Analytics
+## Curso de python
