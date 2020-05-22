@@ -1,7 +1,6 @@
 # :blue_heart: Tigo: Dirección Analytics :blue_heart:
 ## :chart_with_upwards_trend: Gerencia Data Analytics :chart_with_upwards_trend:
 ### :fire: Curso de python
-![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 Python es un lenguaje de programación creado por Guido Van Rossum, con una sintaxis muy limpia. Es lenguaje interpretado o de script.
 
 ### :heart_eyes: Filosofía Python
@@ -24,3 +23,5 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
