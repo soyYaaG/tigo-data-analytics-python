@@ -1,4 +1,4 @@
 # Tigo Dirección Analytics
 ## Gerencia Data Analytics
 ### Curso de python
-![Logo Python](https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg)
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
