@@ -1,6 +1,6 @@
-:blue_heart: **_Tigo - Vp de Experencia a Clientes - Dirección Analytics - Gerencia Data Analytics_** :blue_heart:
+:blue_heart: **_Gerencia Data Analytics_** :blue_heart:
 ## Python
-Python es un lenguaje de programación creado por [Guido Van Rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum), con una sintaxis muy limpia. Es un lenguaje interpretado o de script.
+Python es un lenguaje de programación creado por <a href="https://es.wikipedia.org/wiki/Guido_van_Rossum" target="_blank">Guido Van Rossum</a>, con una sintaxis muy limpia. Es un lenguaje interpretado o de script.
 
 > ### Filosofía
 > Beautiful is better than ugly.<br>
